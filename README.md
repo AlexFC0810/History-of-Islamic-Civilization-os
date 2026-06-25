@@ -29,6 +29,36 @@ That document frames the project around the thesis:
 
 > The Prophet Muhammad's ﷺ era is the root. The Golden Ages are the fruit.
 
+## Fruit Test and Moral Architecture
+
+Use `canon/FRUIT_TEST_AND_MORAL_ARCHITECTURE.md` for the fruit-test layer.
+
+This package preserves the thesis:
+
+> **Islamic civilization's rare fruit was high civilization with moral architecture built into the operating system.**
+
+It canonizes the framing around hospitals, waqf, animal mercy, fasting, moral limits, and comparative historical evaluation.
+
+## Load-Bearing Questions
+
+Use `content-system/load-bearing-questions/README.md` for the smear-response and propaganda-immunity question system.
+
+This package preserves the thesis:
+
+> **A load-bearing question is compressed truth with a question mark.**
+
+It includes the cold-friendly S-tier standard, smear-to-stress-test method, evaluation rubric, public lines, honest caveats, and content pillars.
+
+## Islam as Protection
+
+Use `content-system/islam-as-protection/README.md` for the positive wisdom-reveal content system.
+
+This package preserves the thesis:
+
+> **Islam looks restrictive when you only ask, "What do I want right now?" It starts looking wise when you ask, "What does this protect?"**
+
+It covers fasting, alcohol, gambling, modesty, sexual ethics, family responsibility, debt/riba, prayer, zakat, gossip, anger, and halal as protection frames.
+
 ## Digital House of Wisdom Steward
 
 Use `agents/digital-house-of-wisdom/` for the steward agent that owns continuity, memory, thread discovery, source hardening, and project routing.
@@ -73,6 +103,8 @@ It includes decline as system degradation, internal degradation, external shocks
 
 Use `research-ledger/ISLAMIC_CIVILIZATION_OS_SOURCE_HARDENING.md` before turning canon into public claims.
 
+For the Fruit Test and Load-Bearing Questions package, use `research-ledger/FRUIT_TEST_SOURCE_HARDENING_2026-06-25.md`.
+
 For the Prophetic Age package, use `research-ledger/PROPHETIC_AGE_SEED_OS_SOURCE_HARDENING_2026-06-24.md`.
 
 For the Islamic Golden Ages package, use `research-ledger/ISLAMIC_GOLDEN_AGES_SOURCE_HARDENING_2026-06-24.md`.
@@ -94,12 +126,16 @@ Every major public-facing claim should move through:
 - `agents/` — persistent agent roles, prompts, memory, and handoff protocols.
   - `agents/digital-house-of-wisdom/` — steward agent for civilizational memory, research threads, and source hardening.
 - `canon/` — core doctrine, models, and durable framing.
+  - `canon/FRUIT_TEST_AND_MORAL_ARCHITECTURE.md` — fruit-test doctrine and moral architecture synthesis.
 - `civilizational-memory/` — canonical packages for major memory-repair and map-repair projects.
   - `civilizational-memory/prophetic-age-seed-os/` — seed-code package for the Prophetic age.
   - `civilizational-memory/islamic-golden-ages/` — plural Golden Ages canon, Civilization OS stack, visual system, content engine, and reimplementation blueprint.
   - `civilizational-memory/decline-and-renewal-os/` — decline diagnosis and renewal blueprint.
 - `content-system/` — deployable comparison trivia, short-form ideas, hooks, and series structures.
+  - `content-system/load-bearing-questions/` — cold-friendly smear breakers and propaganda-immunity questions.
+  - `content-system/islam-as-protection/` — positive wisdom-reveal system for Islamic limits as protection.
 - `research-ledger/` — claims to verify, disputed claims, source priorities, and historical research queues.
+  - `research-ledger/FRUIT_TEST_SOURCE_HARDENING_2026-06-25.md` — source-hardening ledger for the new Fruit Test / Load-Bearing Questions package.
 - `brand-architecture/` — naming, movement architecture, and brand primitives derived from the project.
 
 ## Current Canonical Spine
@@ -107,14 +143,19 @@ Every major public-facing claim should move through:
 1. `agents/digital-house-of-wisdom/README.md`
 2. `canon/MASTER_ARCHITECTURE.md`
 3. `canon/ISLAMIC_CIVILIZATION_OPERATING_SYSTEM.md`
-4. `canon/visibility-engine.md`
-5. `civilizational-memory/prophetic-age-seed-os/README.md`
-6. `civilizational-memory/islamic-golden-ages/README.md`
-7. `civilizational-memory/decline-and-renewal-os/README.md`
-8. `research-ledger/ISLAMIC_CIVILIZATION_OS_SOURCE_HARDENING.md`
-9. `research-ledger/PROPHETIC_AGE_SEED_OS_SOURCE_HARDENING_2026-06-24.md`
-10. `research-ledger/ISLAMIC_GOLDEN_AGES_SOURCE_HARDENING_2026-06-24.md`
-11. `research-ledger/DECLINE_AND_RENEWAL_OS_SOURCE_HARDENING_2026-06-24.md`
+4. `canon/FRUIT_TEST_AND_MORAL_ARCHITECTURE.md`
+5. `canon/visibility-engine.md`
+6. `content-system/CONTENT_ENGINE.md`
+7. `content-system/load-bearing-questions/README.md`
+8. `content-system/islam-as-protection/README.md`
+9. `civilizational-memory/prophetic-age-seed-os/README.md`
+10. `civilizational-memory/islamic-golden-ages/README.md`
+11. `civilizational-memory/decline-and-renewal-os/README.md`
+12. `research-ledger/ISLAMIC_CIVILIZATION_OS_SOURCE_HARDENING.md`
+13. `research-ledger/FRUIT_TEST_SOURCE_HARDENING_2026-06-25.md`
+14. `research-ledger/PROPHETIC_AGE_SEED_OS_SOURCE_HARDENING_2026-06-24.md`
+15. `research-ledger/ISLAMIC_GOLDEN_AGES_SOURCE_HARDENING_2026-06-24.md`
+16. `research-ledger/DECLINE_AND_RENEWAL_OS_SOURCE_HARDENING_2026-06-24.md`
 
 ## North Star
 
