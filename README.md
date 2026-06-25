@@ -69,6 +69,16 @@ This package preserves the thesis:
 
 It covers fasting, alcohol, gambling, modesty, sexual ethics, family responsibility, debt/riba, prayer, zakat, gossip, anger, and halal as protection frames.
 
+## Prophetic Inversion
+
+Use `content-system/prophetic-inversion/README.md` for the comparative-history and misconception-repair content system around women, daughters, animals, knowledge, wealth, tribe, and power.
+
+This package preserves the thesis:
+
+> **Islam was not revealed into a humane world and made it cruel. It was revealed into a cruel world and placed God's authority between power and the vulnerable — women, daughters, orphans, the poor, slaves, strangers, and even animals.**
+
+It includes the Prophetic Inversion frame, eight epiphany zones, load-bearing questions, S-tier canon lines, public response templates, a content series architecture, and source-hardening guardrails.
+
 ## Digital House of Wisdom Steward
 
 Use `agents/digital-house-of-wisdom/` for the steward agent that owns continuity, memory, thread discovery, source hardening, and project routing.
@@ -115,6 +125,8 @@ Use `research-ledger/ISLAMIC_CIVILIZATION_OS_SOURCE_HARDENING.md` before turning
 
 For the Fruit Test and Load-Bearing Questions package, use `research-ledger/FRUIT_TEST_SOURCE_HARDENING_2026-06-25.md`.
 
+For the Prophetic Inversion package, use `research-ledger/PROPHETIC_INVERSION_SOURCE_HARDENING_2026-06-25.md`.
+
 For the Prophetic Age package, use `research-ledger/PROPHETIC_AGE_SEED_OS_SOURCE_HARDENING_2026-06-24.md`.
 
 For the Islamic Golden Ages package, use `research-ledger/ISLAMIC_GOLDEN_AGES_SOURCE_HARDENING_2026-06-24.md`.
@@ -145,8 +157,10 @@ Every major public-facing claim should move through:
 - `content-system/` — deployable comparison trivia, short-form ideas, hooks, and series structures.
   - `content-system/load-bearing-questions/` — cold-friendly smear breakers and propaganda-immunity questions.
   - `content-system/islam-as-protection/` — positive wisdom-reveal system for Islamic limits as protection.
+  - `content-system/prophetic-inversion/` — comparative-history misconception repair around Islam, women, mercy, animals, knowledge, wealth, tribe, and power.
 - `research-ledger/` — claims to verify, disputed claims, source priorities, and historical research queues.
   - `research-ledger/FRUIT_TEST_SOURCE_HARDENING_2026-06-25.md` — source-hardening ledger for the new Fruit Test / Load-Bearing Questions package.
+  - `research-ledger/PROPHETIC_INVERSION_SOURCE_HARDENING_2026-06-25.md` — source-hardening ledger for the Prophetic Inversion package.
 - `brand-architecture/` — naming, movement architecture, and brand primitives derived from the project.
 
 ## Current Canonical Spine
@@ -160,14 +174,16 @@ Every major public-facing claim should move through:
 7. `content-system/CONTENT_ENGINE.md`
 8. `content-system/load-bearing-questions/README.md`
 9. `content-system/islam-as-protection/README.md`
-10. `civilizational-memory/prophetic-age-seed-os/README.md`
-11. `civilizational-memory/islamic-golden-ages/README.md`
-12. `civilizational-memory/decline-and-renewal-os/README.md`
-13. `research-ledger/ISLAMIC_CIVILIZATION_OS_SOURCE_HARDENING.md`
-14. `research-ledger/FRUIT_TEST_SOURCE_HARDENING_2026-06-25.md`
-15. `research-ledger/PROPHETIC_AGE_SEED_OS_SOURCE_HARDENING_2026-06-24.md`
-16. `research-ledger/ISLAMIC_GOLDEN_AGES_SOURCE_HARDENING_2026-06-24.md`
-17. `research-ledger/DECLINE_AND_RENEWAL_OS_SOURCE_HARDENING_2026-06-24.md`
+10. `content-system/prophetic-inversion/README.md`
+11. `civilizational-memory/prophetic-age-seed-os/README.md`
+12. `civilizational-memory/islamic-golden-ages/README.md`
+13. `civilizational-memory/decline-and-renewal-os/README.md`
+14. `research-ledger/ISLAMIC_CIVILIZATION_OS_SOURCE_HARDENING.md`
+15. `research-ledger/FRUIT_TEST_SOURCE_HARDENING_2026-06-25.md`
+16. `research-ledger/PROPHETIC_INVERSION_SOURCE_HARDENING_2026-06-25.md`
+17. `research-ledger/PROPHETIC_AGE_SEED_OS_SOURCE_HARDENING_2026-06-24.md`
+18. `research-ledger/ISLAMIC_GOLDEN_AGES_SOURCE_HARDENING_2026-06-24.md`
+19. `research-ledger/DECLINE_AND_RENEWAL_OS_SOURCE_HARDENING_2026-06-24.md`
 
 ## North Star
 
