@@ -109,6 +109,8 @@ This package preserves the thesis:
 
 Prompt tests live in `prompt-library/PROMPT_SPLIT_TEST_HARNESS.md`.
 
+Operational reference stacks live in `prompt-library/REFERENCE_UNIVERSE_STACKS.md`.
+
 ## Load-Bearing Questions
 
 Use `content-system/load-bearing-questions/README.md` for the smear-response and propaganda-immunity question system.
@@ -228,6 +230,7 @@ Every major public-facing claim should move through:
 - `prompt-library/` — reusable prompts, unlock patterns, and prompt experiments.
   - `prompt-library/METAHISTORIAN_UNLOCK_PROMPTS.md` — prompt patterns for metahistorian synthesis, source hardening, canonization, and reimplementation.
   - `prompt-library/PROMPT_SPLIT_TEST_HARNESS.md` — test harness for comparing original, explicit, hybrid, and minimal prompts.
+  - `prompt-library/REFERENCE_UNIVERSE_STACKS.md` — operational cards for choosing reference-universe thinking modes.
 - `research-ledger/` — claims to verify, disputed claims, source priorities, and historical research queues.
   - `research-ledger/FRUIT_TEST_SOURCE_HARDENING_2026-06-25.md` — source-hardening ledger for the new Fruit Test / Load-Bearing Questions package.
   - `research-ledger/PROPHETIC_INVERSION_SOURCE_HARDENING_2026-06-25.md` — source-hardening ledger for the Prophetic Inversion package.
@@ -257,12 +260,13 @@ Every major public-facing claim should move through:
 20. `civilizational-memory/decline-and-renewal-os/README.md`
 21. `prompt-library/METAHISTORIAN_UNLOCK_PROMPTS.md`
 22. `prompt-library/PROMPT_SPLIT_TEST_HARNESS.md`
-23. `research-ledger/ISLAMIC_CIVILIZATION_OS_SOURCE_HARDENING.md`
-24. `research-ledger/FRUIT_TEST_SOURCE_HARDENING_2026-06-25.md`
-25. `research-ledger/PROPHETIC_INVERSION_SOURCE_HARDENING_2026-06-25.md`
-26. `research-ledger/PROPHETIC_AGE_SEED_OS_SOURCE_HARDENING_2026-06-24.md`
-27. `research-ledger/ISLAMIC_GOLDEN_AGES_SOURCE_HARDENING_2026-06-24.md`
-28. `research-ledger/DECLINE_AND_RENEWAL_OS_SOURCE_HARDENING_2026-06-24.md`
+23. `prompt-library/REFERENCE_UNIVERSE_STACKS.md`
+24. `research-ledger/ISLAMIC_CIVILIZATION_OS_SOURCE_HARDENING.md`
+25. `research-ledger/FRUIT_TEST_SOURCE_HARDENING_2026-06-25.md`
+26. `research-ledger/PROPHETIC_INVERSION_SOURCE_HARDENING_2026-06-25.md`
+27. `research-ledger/PROPHETIC_AGE_SEED_OS_SOURCE_HARDENING_2026-06-24.md`
+28. `research-ledger/ISLAMIC_GOLDEN_AGES_SOURCE_HARDENING_2026-06-24.md`
+29. `research-ledger/DECLINE_AND_RENEWAL_OS_SOURCE_HARDENING_2026-06-24.md`
 
 ## North Star
 
