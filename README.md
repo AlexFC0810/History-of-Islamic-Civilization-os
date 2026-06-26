@@ -99,6 +99,16 @@ This package preserves the thesis:
 
 Reusable prompts live in `prompt-library/METAHISTORIAN_UNLOCK_PROMPTS.md`.
 
+## Reference Universes and Creative Aperture
+
+Use `canon/REFERENCE_UNIVERSES_AND_CREATIVE_APERTURE.md` for prompt theory around reference-universe stacking, creative aperture, and specificity vs emergence.
+
+This package preserves the thesis:
+
+> **Great prompts do not always specify every move. Sometimes they summon the right universes, set the truth standard, and leave enough room for synthesis.**
+
+Prompt tests live in `prompt-library/PROMPT_SPLIT_TEST_HARNESS.md`.
+
 ## Load-Bearing Questions
 
 Use `content-system/load-bearing-questions/README.md` for the smear-response and propaganda-immunity question system.
@@ -196,7 +206,7 @@ Every major public-facing claim should move through:
 ## Repository Structure
 
 - `agents/` — persistent agent roles, prompts, memory, and handoff protocols.
-  - `agents/digital-house-of-wisdom/` — steward agent for civilizational memory, research threads, and source hardening.
+  - `agents/digital-house-of-wisdom/` — steward agent for civilizational memory, research threads, source hardening, and meta-unlock synthesis.
 - `canon/` — core doctrine, models, and durable framing.
   - `canon/BLUEPRINT_BUILDER_BUILDING_FRAMEWORK.md` — universal framework for separating source, implementer, actual outcomes, broken loops, and propaganda memory.
   - `canon/BLUEPRINT_VS_IMPLEMENTATION_GAP.md` — blueprint vs builder vs building doctrine for separating source, implementation, culture, state power, and human corruption.
@@ -204,6 +214,7 @@ Every major public-facing claim should move through:
   - `canon/FRUIT_TEST_AND_MORAL_ARCHITECTURE.md` — fruit-test doctrine and moral architecture synthesis.
   - `canon/FRUIT_STACK_AND_COMPARATIVE_HISTORY_METHOD.md` — 3D history method: Fruit Stack, Lore Layer, and Comparative Moral History.
   - `canon/META_UNLOCK_PROTOCOL.md` — repeatable protocol for recreating high-level synthesis breakthroughs.
+  - `canon/REFERENCE_UNIVERSES_AND_CREATIVE_APERTURE.md` — prompt theory for universe stacking, creative aperture, and specificity vs emergence.
 - `civilizational-memory/` — canonical packages for major memory-repair and map-repair projects.
   - `civilizational-memory/prophetic-age-seed-os/` — seed-code package for the Prophetic age.
   - `civilizational-memory/islamic-golden-ages/` — plural Golden Ages canon, Civilization OS stack, visual system, content engine, and reimplementation blueprint.
@@ -214,8 +225,9 @@ Every major public-facing claim should move through:
     - `content-system/load-bearing-questions/BLUEPRINT_IMPLEMENTATION_QUESTIONS.md` — public-facing questions for blueprint vs implementation failures.
   - `content-system/islam-as-protection/` — positive wisdom-reveal system for Islamic limits as protection.
   - `content-system/prophetic-inversion/` — comparative-history misconception repair around Islam, women, mercy, animals, knowledge, wealth, tribe, and power.
-- `prompt-library/` — reusable prompts and unlock patterns.
+- `prompt-library/` — reusable prompts, unlock patterns, and prompt experiments.
   - `prompt-library/METAHISTORIAN_UNLOCK_PROMPTS.md` — prompt patterns for metahistorian synthesis, source hardening, canonization, and reimplementation.
+  - `prompt-library/PROMPT_SPLIT_TEST_HARNESS.md` — test harness for comparing original, explicit, hybrid, and minimal prompts.
 - `research-ledger/` — claims to verify, disputed claims, source priorities, and historical research queues.
   - `research-ledger/FRUIT_TEST_SOURCE_HARDENING_2026-06-25.md` — source-hardening ledger for the new Fruit Test / Load-Bearing Questions package.
   - `research-ledger/PROPHETIC_INVERSION_SOURCE_HARDENING_2026-06-25.md` — source-hardening ledger for the Prophetic Inversion package.
@@ -232,23 +244,25 @@ Every major public-facing claim should move through:
 7. `canon/BLUEPRINT_BUILDER_BUILDING_FRAMEWORK.md`
 8. `canon/CIVILIZATIONAL_XRAY_MACHINE.md`
 9. `canon/META_UNLOCK_PROTOCOL.md`
-10. `canon/visibility-engine.md`
-11. `content-system/CONTENT_ENGINE.md`
-12. `content-system/EPIPHANY_COMPRESSION_VAULT.md`
-13. `content-system/load-bearing-questions/README.md`
-14. `content-system/load-bearing-questions/BLUEPRINT_IMPLEMENTATION_QUESTIONS.md`
-15. `content-system/islam-as-protection/README.md`
-16. `content-system/prophetic-inversion/README.md`
-17. `civilizational-memory/prophetic-age-seed-os/README.md`
-18. `civilizational-memory/islamic-golden-ages/README.md`
-19. `civilizational-memory/decline-and-renewal-os/README.md`
-20. `prompt-library/METAHISTORIAN_UNLOCK_PROMPTS.md`
-21. `research-ledger/ISLAMIC_CIVILIZATION_OS_SOURCE_HARDENING.md`
-22. `research-ledger/FRUIT_TEST_SOURCE_HARDENING_2026-06-25.md`
-23. `research-ledger/PROPHETIC_INVERSION_SOURCE_HARDENING_2026-06-25.md`
-24. `research-ledger/PROPHETIC_AGE_SEED_OS_SOURCE_HARDENING_2026-06-24.md`
-25. `research-ledger/ISLAMIC_GOLDEN_AGES_SOURCE_HARDENING_2026-06-24.md`
-26. `research-ledger/DECLINE_AND_RENEWAL_OS_SOURCE_HARDENING_2026-06-24.md`
+10. `canon/REFERENCE_UNIVERSES_AND_CREATIVE_APERTURE.md`
+11. `canon/visibility-engine.md`
+12. `content-system/CONTENT_ENGINE.md`
+13. `content-system/EPIPHANY_COMPRESSION_VAULT.md`
+14. `content-system/load-bearing-questions/README.md`
+15. `content-system/load-bearing-questions/BLUEPRINT_IMPLEMENTATION_QUESTIONS.md`
+16. `content-system/islam-as-protection/README.md`
+17. `content-system/prophetic-inversion/README.md`
+18. `civilizational-memory/prophetic-age-seed-os/README.md`
+19. `civilizational-memory/islamic-golden-ages/README.md`
+20. `civilizational-memory/decline-and-renewal-os/README.md`
+21. `prompt-library/METAHISTORIAN_UNLOCK_PROMPTS.md`
+22. `prompt-library/PROMPT_SPLIT_TEST_HARNESS.md`
+23. `research-ledger/ISLAMIC_CIVILIZATION_OS_SOURCE_HARDENING.md`
+24. `research-ledger/FRUIT_TEST_SOURCE_HARDENING_2026-06-25.md`
+25. `research-ledger/PROPHETIC_INVERSION_SOURCE_HARDENING_2026-06-25.md`
+26. `research-ledger/PROPHETIC_AGE_SEED_OS_SOURCE_HARDENING_2026-06-24.md`
+27. `research-ledger/ISLAMIC_GOLDEN_AGES_SOURCE_HARDENING_2026-06-24.md`
+28. `research-ledger/DECLINE_AND_RENEWAL_OS_SOURCE_HARDENING_2026-06-24.md`
 
 ## North Star
 
