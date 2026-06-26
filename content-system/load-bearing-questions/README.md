@@ -84,6 +84,18 @@ Use this prompt to generate new entries:
 
 > Turn the smear into a precise claim. Find the biggest counterexample. Make the counterexample impossible to ignore in one sentence. Avoid cleverness. Avoid overexplaining. Make the question true under pressure, simple enough to repeat, and strong enough to force the other side to clarify or retreat.
 
+## Expansion Files
+
+Use `COMMON_SMEARS_EXPANSION_2026-06-25.md` for the next layer of common Western and American Islam smears, including women, daughters, marriage, public religious life, animal mercy, knowledge, Arab supremacy, Sharia, terrorism, integration, modernity, social control, tolerance, and freedom.
+
+This expansion preserves the same house style:
+
+> **Best current question -> alternate cold-friendly version -> best frame -> honest caveat -> unsafe wording -> safer wording -> content pillar.**
+
+Golden thread:
+
+> **Prophetic Inversion gives us the moral architecture. Load-Bearing Questions gives us the public weapon. Source hardening keeps the weapon honest.**
+
 ## Canonical Smear-Breakers
 
 ### 1. Smear: "Islam spread by the sword."
@@ -218,172 +230,3 @@ Muslim societies disagreed over philosophy, theology, censorship, and authority.
 > The civilization called backward helped build the modern knowledge inheritance.
 
 ---
-
-### 6. Smear: "Islam cannot coexist."
-
-**Best question:**
-
-> If Muslim rule meant erasing everyone else, why did ancient Christian and Jewish communities survive for centuries under Muslim rule?
-
-**Best line:**
-
-> Survival is not the same as equality. But it destroys the myth of total erasure.
-
-**Honest caveat:**
-
-Premodern Muslim rule was not modern liberal equality. Non-Muslims often had protected but subordinate status. That is different from forced total erasure.
-
-**Content pillar:**
-
-> Not modern equality. Not total erasure. Tell the truth.
-
----
-
-### 7. Smear: "Muslims hate Jesus / Christians."
-
-**S-tier line:**
-
-> Muslims do not worship Jesus. They still love and honor him.
-
-**Best question:**
-
-> If Islam hates Jesus, why does the Qur'an honor him as the Messiah?
-
-**Best frame:**
-
-> Islam disagrees with Christian theology. It does not erase Jesus.
-
-**Honest caveat:**
-
-Muslim-Christian history includes coexistence, debate, polemics, war, protection, oppression, alliance, and exchange. The history is not one emotion.
-
-**Content pillar:**
-
-> Islam is not anti-Jesus. It is radically pro-Jesus, but not Christian.
-
----
-
-### 8. Smear: "The Prophet ﷺ was just a warlord."
-
-**Best question:**
-
-> If he was "just a warlord," why did the civilization he left behind organize daily life around prayer, charity, fasting, family, law, restraint, and accountability to God?
-
-**Best line:**
-
-> A warlord leaves behind a gang. A prophet leaves behind worship, law, charity, restraint, and civilization.
-
-**Honest caveat:**
-
-The Prophet ﷺ led a community that fought wars. That must be studied historically. Reducing him to "warlord" is not analysis; it is polemic.
-
-**Content pillar:**
-
-> War happened. Warlord is the wrong frame.
-
----
-
-### 9. Smear: "Islam oppresses women."
-
-**Best line:**
-
-> The choice is not patriarchy or pornography. The question is dignity.
-
-**Best question:**
-
-> Are you criticizing Islam, patriarchy, bad law, bad culture, poverty, authoritarian states, or modernity's idea that liberation means becoming exploitable?
-
-**Honest caveat:**
-
-Muslim societies have real failures to answer for. Denying that is weak. But pretending secular consumer culture is pure liberation is also weak.
-
-**Content pillar:**
-
-> True dignity is not patriarchy or commodification.
-
----
-
-### 10. Smear: "Islam is terrorism."
-
-**S-tier line:**
-
-> You do not get to define 2 billion people by the worst actors you selectively notice.
-
-**Best question:**
-
-> If terrorism defines Islam, do school shootings define Christianity, nuclear bombs define secular liberalism, and communist massacres define atheism?
-
-**Best frame:**
-
-> Condemn the crime. Reject the collective smear.
-
-**Honest caveat:**
-
-Muslim extremism exists and must be opposed. Collective blame is propaganda.
-
-**Content pillar:**
-
-> Condemn the crime. Refuse the collective smear.
-
----
-
-### 11. Smear: "Sharia is barbaric."
-
-**Best question:**
-
-> Before calling Sharia barbaric, define what you mean: prayer, charity, family law, dietary rules, courts, punishments, or a dictator's abuse?
-
-**Best line:**
-
-> Most people attacking Sharia are attacking a word they cannot define.
-
-**Honest caveat:**
-
-There are serious debates about law, rights, governance, punishment, pluralism, and modern states. But "Sharia = barbarism" is not analysis.
-
-**Content pillar:**
-
-> Define before you demonize.
-
----
-
-### 12. Smear: "Islam is backward."
-
-**S-tier question:**
-
-> Backward compared to what — addiction, loneliness, pornography, debt, broken families, alcohol abuse, gambling, and worship of money?
-
-**S-tier line:**
-
-> Sometimes "backward" just means refusing to decay in the approved direction.
-
-**Best frame:**
-
-> Moral restraint is not backward.
-
-**Honest caveat:**
-
-Muslim societies need reform, excellence, education, justice, and stronger institutions. But moral restraint is not decay.
-
-**Content pillar:**
-
-> Backward to decadence can be forward to sanity.
-
-## Universal Response Sequence
-
-Use this sequence in comments, scripts, essays, and debates:
-
-1. **Name the smear.**
-2. **Ask the load-bearing question.**
-3. **Give one concrete counterexample.**
-4. **Concede the true part.**
-5. **Reject the overreach.**
-6. **End with a portable line.**
-
-Example:
-
-> If Islam spread mostly by force, why is the largest Muslim country on Earth a place no foreign Muslim conquest made Muslim? Muslim empires did conquer. Coercion happened in some places. But conquest is not conversion, and Indonesia breaks the simplest version of the slogan.
-
-## Core Maxim
-
-> A slogan is not a source. A smear is not an argument.
