@@ -63,6 +63,18 @@ It adds the central question:
 
 Public-facing questions live in `content-system/load-bearing-questions/BLUEPRINT_IMPLEMENTATION_QUESTIONS.md`.
 
+## Blueprint, Builder, Building Framework
+
+Use `canon/BLUEPRINT_BUILDER_BUILDING_FRAMEWORK.md` for the universal implementation-gap framework that can be applied beyond Islam to religions, institutions, states, companies, movements, science, democracy, and public narratives.
+
+This package preserves the thesis:
+
+> **A label tells you what someone claims. Fruit tells you what they serve.**
+
+It generalizes the operating question:
+
+> **Are we judging the blueprint, the builder, or the building?**
+
 ## Load-Bearing Questions
 
 Use `content-system/load-bearing-questions/README.md` for the smear-response and propaganda-immunity question system.
@@ -162,6 +174,7 @@ Every major public-facing claim should move through:
 - `agents/` — persistent agent roles, prompts, memory, and handoff protocols.
   - `agents/digital-house-of-wisdom/` — steward agent for civilizational memory, research threads, and source hardening.
 - `canon/` — core doctrine, models, and durable framing.
+  - `canon/BLUEPRINT_BUILDER_BUILDING_FRAMEWORK.md` — universal framework for separating source, implementer, actual outcomes, broken loops, and propaganda memory.
   - `canon/BLUEPRINT_VS_IMPLEMENTATION_GAP.md` — blueprint vs builder vs building doctrine for separating source, implementation, culture, state power, and human corruption.
   - `canon/FRUIT_TEST_AND_MORAL_ARCHITECTURE.md` — fruit-test doctrine and moral architecture synthesis.
   - `canon/FRUIT_STACK_AND_COMPARATIVE_HISTORY_METHOD.md` — 3D history method: Fruit Stack, Lore Layer, and Comparative Moral History.
@@ -187,21 +200,22 @@ Every major public-facing claim should move through:
 4. `canon/FRUIT_TEST_AND_MORAL_ARCHITECTURE.md`
 5. `canon/FRUIT_STACK_AND_COMPARATIVE_HISTORY_METHOD.md`
 6. `canon/BLUEPRINT_VS_IMPLEMENTATION_GAP.md`
-7. `canon/visibility-engine.md`
-8. `content-system/CONTENT_ENGINE.md`
-9. `content-system/load-bearing-questions/README.md`
-10. `content-system/load-bearing-questions/BLUEPRINT_IMPLEMENTATION_QUESTIONS.md`
-11. `content-system/islam-as-protection/README.md`
-12. `content-system/prophetic-inversion/README.md`
-13. `civilizational-memory/prophetic-age-seed-os/README.md`
-14. `civilizational-memory/islamic-golden-ages/README.md`
-15. `civilizational-memory/decline-and-renewal-os/README.md`
-16. `research-ledger/ISLAMIC_CIVILIZATION_OS_SOURCE_HARDENING.md`
-17. `research-ledger/FRUIT_TEST_SOURCE_HARDENING_2026-06-25.md`
-18. `research-ledger/PROPHETIC_INVERSION_SOURCE_HARDENING_2026-06-25.md`
-19. `research-ledger/PROPHETIC_AGE_SEED_OS_SOURCE_HARDENING_2026-06-24.md`
-20. `research-ledger/ISLAMIC_GOLDEN_AGES_SOURCE_HARDENING_2026-06-24.md`
-21. `research-ledger/DECLINE_AND_RENEWAL_OS_SOURCE_HARDENING_2026-06-24.md`
+7. `canon/BLUEPRINT_BUILDER_BUILDING_FRAMEWORK.md`
+8. `canon/visibility-engine.md`
+9. `content-system/CONTENT_ENGINE.md`
+10. `content-system/load-bearing-questions/README.md`
+11. `content-system/load-bearing-questions/BLUEPRINT_IMPLEMENTATION_QUESTIONS.md`
+12. `content-system/islam-as-protection/README.md`
+13. `content-system/prophetic-inversion/README.md`
+14. `civilizational-memory/prophetic-age-seed-os/README.md`
+15. `civilizational-memory/islamic-golden-ages/README.md`
+16. `civilizational-memory/decline-and-renewal-os/README.md`
+17. `research-ledger/ISLAMIC_CIVILIZATION_OS_SOURCE_HARDENING.md`
+18. `research-ledger/FRUIT_TEST_SOURCE_HARDENING_2026-06-25.md`
+19. `research-ledger/PROPHETIC_INVERSION_SOURCE_HARDENING_2026-06-25.md`
+20. `research-ledger/PROPHETIC_AGE_SEED_OS_SOURCE_HARDENING_2026-06-24.md`
+21. `research-ledger/ISLAMIC_GOLDEN_AGES_SOURCE_HARDENING_2026-06-24.md`
+22. `research-ledger/DECLINE_AND_RENEWAL_OS_SOURCE_HARDENING_2026-06-24.md`
 
 ## North Star
 
