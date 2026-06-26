@@ -111,6 +111,16 @@ Prompt tests live in `prompt-library/PROMPT_SPLIT_TEST_HARNESS.md`.
 
 Operational reference stacks live in `prompt-library/REFERENCE_UNIVERSE_STACKS.md`.
 
+## Breakthrough Case Studies
+
+Use `case-studies/` for worked examples of breakthrough synthesis, prompt unlocks, source-hardening patterns, and canonization sequences.
+
+This package preserves the thesis:
+
+> **Doctrine explains the method. Case studies show the method alive.**
+
+Start with `case-studies/CIVILIZATIONAL_XRAY_UNLOCK_2026-06-26.md` and use `case-studies/CASE_STUDY_TEMPLATE.md` for future breakthroughs.
+
 ## Load-Bearing Questions
 
 Use `content-system/load-bearing-questions/README.md` for the smear-response and propaganda-immunity question system.
@@ -217,6 +227,9 @@ Every major public-facing claim should move through:
   - `canon/FRUIT_STACK_AND_COMPARATIVE_HISTORY_METHOD.md` — 3D history method: Fruit Stack, Lore Layer, and Comparative Moral History.
   - `canon/META_UNLOCK_PROTOCOL.md` — repeatable protocol for recreating high-level synthesis breakthroughs.
   - `canon/REFERENCE_UNIVERSES_AND_CREATIVE_APERTURE.md` — prompt theory for universe stacking, creative aperture, and specificity vs emergence.
+- `case-studies/` — worked examples of breakthrough synthesis, prompt unlocks, and canonization sequences.
+  - `case-studies/CASE_STUDY_TEMPLATE.md` — template for future breakthrough case studies.
+  - `case-studies/CIVILIZATIONAL_XRAY_UNLOCK_2026-06-26.md` — first full unlock case study.
 - `civilizational-memory/` — canonical packages for major memory-repair and map-repair projects.
   - `civilizational-memory/prophetic-age-seed-os/` — seed-code package for the Prophetic age.
   - `civilizational-memory/islamic-golden-ages/` — plural Golden Ages canon, Civilization OS stack, visual system, content engine, and reimplementation blueprint.
@@ -249,24 +262,26 @@ Every major public-facing claim should move through:
 9. `canon/META_UNLOCK_PROTOCOL.md`
 10. `canon/REFERENCE_UNIVERSES_AND_CREATIVE_APERTURE.md`
 11. `canon/visibility-engine.md`
-12. `content-system/CONTENT_ENGINE.md`
-13. `content-system/EPIPHANY_COMPRESSION_VAULT.md`
-14. `content-system/load-bearing-questions/README.md`
-15. `content-system/load-bearing-questions/BLUEPRINT_IMPLEMENTATION_QUESTIONS.md`
-16. `content-system/islam-as-protection/README.md`
-17. `content-system/prophetic-inversion/README.md`
-18. `civilizational-memory/prophetic-age-seed-os/README.md`
-19. `civilizational-memory/islamic-golden-ages/README.md`
-20. `civilizational-memory/decline-and-renewal-os/README.md`
-21. `prompt-library/METAHISTORIAN_UNLOCK_PROMPTS.md`
-22. `prompt-library/PROMPT_SPLIT_TEST_HARNESS.md`
-23. `prompt-library/REFERENCE_UNIVERSE_STACKS.md`
-24. `research-ledger/ISLAMIC_CIVILIZATION_OS_SOURCE_HARDENING.md`
-25. `research-ledger/FRUIT_TEST_SOURCE_HARDENING_2026-06-25.md`
-26. `research-ledger/PROPHETIC_INVERSION_SOURCE_HARDENING_2026-06-25.md`
-27. `research-ledger/PROPHETIC_AGE_SEED_OS_SOURCE_HARDENING_2026-06-24.md`
-28. `research-ledger/ISLAMIC_GOLDEN_AGES_SOURCE_HARDENING_2026-06-24.md`
-29. `research-ledger/DECLINE_AND_RENEWAL_OS_SOURCE_HARDENING_2026-06-24.md`
+12. `case-studies/README.md`
+13. `case-studies/CIVILIZATIONAL_XRAY_UNLOCK_2026-06-26.md`
+14. `content-system/CONTENT_ENGINE.md`
+15. `content-system/EPIPHANY_COMPRESSION_VAULT.md`
+16. `content-system/load-bearing-questions/README.md`
+17. `content-system/load-bearing-questions/BLUEPRINT_IMPLEMENTATION_QUESTIONS.md`
+18. `content-system/islam-as-protection/README.md`
+19. `content-system/prophetic-inversion/README.md`
+20. `civilizational-memory/prophetic-age-seed-os/README.md`
+21. `civilizational-memory/islamic-golden-ages/README.md`
+22. `civilizational-memory/decline-and-renewal-os/README.md`
+23. `prompt-library/METAHISTORIAN_UNLOCK_PROMPTS.md`
+24. `prompt-library/PROMPT_SPLIT_TEST_HARNESS.md`
+25. `prompt-library/REFERENCE_UNIVERSE_STACKS.md`
+26. `research-ledger/ISLAMIC_CIVILIZATION_OS_SOURCE_HARDENING.md`
+27. `research-ledger/FRUIT_TEST_SOURCE_HARDENING_2026-06-25.md`
+28. `research-ledger/PROPHETIC_INVERSION_SOURCE_HARDENING_2026-06-25.md`
+29. `research-ledger/PROPHETIC_AGE_SEED_OS_SOURCE_HARDENING_2026-06-24.md`
+30. `research-ledger/ISLAMIC_GOLDEN_AGES_SOURCE_HARDENING_2026-06-24.md`
+31. `research-ledger/DECLINE_AND_RENEWAL_OS_SOURCE_HARDENING_2026-06-24.md`
 
 ## North Star
 
