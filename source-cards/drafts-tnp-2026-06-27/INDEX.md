@@ -1,0 +1,22 @@
+# DRAFT CONTRIBUTIONS — Truth & Peace research swarm (2026-06-27)
+
+> 6 source-hardened **DRAFT** cards filling gaps identified while producing content (eating our own dog food). Each card was built by a research agent using **primary + reputable academic sources** (bias-flagged), calibrated to the **Metahistorian Standard** (loyal only to truth; never make history cleaner than it was).
+>
+> **Status: DRAFT — for review / final source-hardening before promotion into the numbered `source-cards/` canon** (proposed numbers in the file headers collide; renumber on promotion). Companion deliverable: `canon/BEST_SOURCES_REGISTRY.md`.
+>
+> Branch: `tnp/research-contributions-2026-06-27` (isolated worktree — not pushed/merged; awaiting review + coordination with the CM-OS-owning thread).
+
+| Card | Grade | One-line (safe) | Gap it fills |
+|---|---|---|---|
+| `draft_quran_5_32_sanctity_of_life.md` | **A** (text) / B (practice) | Quran 5:32 — to kill one soul [save one] is like killing [saving] all humanity — **decreed "for the Children of Israel,"** openly echoing Mishnah Sanhedrin 4:5. | Flagship Abrahamic bridge; Quran-anchored "killing innocents is forbidden" (repo had leaned on hadith) |
+| `draft_manumission_paths_in_islam.md` | **B+** | Islam didn't abolish slavery, but built unusual **exit-ramps OUT**: self-purchase (24:33), a zakat category to free slaves (9:60), freeing as expiation. NOT "ended slavery in a generation." | Answers the "Islam = oppressive/slavery" smear with the manumission engine |
+| `draft_mamluks_slave_to_sultan.md` | **B** | A boy bought as a military slave could be freed and rise to emir or **sultan** — real mobility, but a brutal military-caste institution, not universal, still slavery. | The "slave became king" angle (operator-flagged), caveated |
+| `draft_spread_of_islam_indonesia_trade_sufi.md` | **B+** | No foreign Muslim army conquered Indonesia — Islam arrived via **Indian-Ocean trade, Sufi teachers, local conversion** (gradual, syncretic). "Conquest ≠ conversion." | Unblocks the load-bearing sword clip (was an ungraded mechanism) |
+| `draft_slavery_islamic_vs_chattel_comparison.md` | **C** | Different legal architecture than Atlantic chattel (not strictly racial/hereditary/perpetual; manumission pathways) — **but slavery was still slavery.** Do not whitewash. | The repo's weakest-sourced area, handled honestly |
+| `draft_quran_vs_hadith_authority.md` | **B+** | For Sunni Muslims the **Quran outranks hadith** in transmission-certainty (tawatur + mass memorization vs graded chains) — anchor claims in the Quran first. | Grounds the operator's "the Quran is the source of truth" methodology |
+
+## Notes for the reviewer / CM-OS thread
+- These are **drafts**, not finalized canon — promote after a hardening pass + renumber into the `source-cards/NNN_` series (005 and 007 are open numbers; several drafts proposed `009`).
+- Highest-leverage for the content pipeline: **5:32** (flagship bridge, ship-ready wording) and **Indonesia** (unblocks the sword load-bearing clip).
+- Handle **slavery_vs_chattel (C)** with the most care — highest whitewash risk; the card keeps the claim narrow ("different legal architecture, not a milder moral reality").
+- The **links-review** + a final **adversarial calibration pass** were rate-limited mid-run; resuming separately (a calibration note will be appended here).
